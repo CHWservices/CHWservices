@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CHWservices
+- 👋 Hi, I’m Charlie
 - 👀 I’m interested in the built environment, building services and data science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on HVAC and engineering design data science
